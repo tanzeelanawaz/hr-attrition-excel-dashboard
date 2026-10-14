@@ -101,7 +101,7 @@ hr-attrition-excel-dashboard/
 BS Bioinformatics Student | Aspiring Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzeela%20Nawaz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeela-nawaz-405376418)
-[![GitHub](https://img.shields.io/badge/GitHub-tanzeelanawaz700--design-181717?logo=github)](https://github.com/tanzeelanawaz700-design)
+[![GitHub](https://img.shields.io/badge/GitHub-tanzeelanawaz-181717?logo=github)](https://github.com/tanzeelanawaz)
 
 ---
 
